@@ -82,7 +82,7 @@ Two sites connected via Nebula overlay network:
 
 **My Home**
 - Network: **ZTE F7005TV3** (ONT, bridge) → **BeeconMini SEED AC5S** (iStoreOS · PPPoE · PoE · AC) → 2 × **BeeconMini Mini7-3600** (in-wall panel AP)
-- **Minisforum MS-A2** — Ryzen 9 7945HX · 96 GB · 1 TB NVMe · Omarchy
+- **Minisforum MS-A2** — Ryzen 9 7945HX · 96 GB · 1 TB NVMe · Omarchy (homelab)
 - **UGREEN DXP4800 Plus** — Pentium Gold 8505 · 8 GB · 2 × 14 TB HDD · UGOS Pro (NAS)
 
 **Office**
